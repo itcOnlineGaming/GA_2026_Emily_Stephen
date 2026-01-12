@@ -69,3 +69,6 @@ The hypothesis is **STRONGLY SUPPORTED** by combined data from both participants
 - 28% performance decrease from baseline
 - Maximum score cut in half (38 → 18)
 - Consistent decline across both participants
+
+## Final Design Decision
+Maintain a player speed of 400. The player speed alone does not tangibly improve the gameplay experience, as we outlined in our hypothesis. There are other factors in the game that need to be addressed such as enemy spawn rates and movement speeds, collision detections, to identify improvements to overall game balance. 
