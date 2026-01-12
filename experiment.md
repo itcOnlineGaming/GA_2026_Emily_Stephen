@@ -72,3 +72,8 @@ The hypothesis is **STRONGLY SUPPORTED** by combined data from both participants
 
 ## Final Design Decision
 Maintain a player speed of 400. The player speed alone does not tangibly improve the gameplay experience, as we outlined in our hypothesis. There are other factors in the game that need to be addressed such as enemy spawn rates and movement speeds, collision detections, to identify improvements to overall game balance. 
+
+## P.S.:
+The speed variable was not randomised on any sessions in these tests, therefore there is bias in the results. Future tests will use randomised values for certain variables to avoid this problem in the future. 
+
+## Note: Combined csv data now shown in CombinedResults.ipynb 
